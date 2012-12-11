@@ -14,5 +14,7 @@
 - appengine SDK (https://developers.google.com/appengine/downloads)
 
 
+## TODO ##
+- Add git cleanup, if this should be used as a boilerplate/template there should be a simple way to clean up/remove git and/or update remotes
 
 -- Inspired by (and stolen from) https://github.com/swallentin/front-end-assets-pipeline  --

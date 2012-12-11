@@ -15,7 +15,7 @@ DATASTORE_PATH=tmp/dev_appserver.datastore
 serve:
 	$(PYTHON) $(DEV_APPSERVER) $(APP) --port $(PORT) --address $(ADDRESS) $(FLAGS) --datastore_path=$(DATASTORE_PATH)
 
-appengine-tests:
+appengine-tests tests:
 	rm /usr/local/bin/dev_appserver.pyc
 	nosetests -v --gae-application=$(APP) --with-gae test/appengine/
 
