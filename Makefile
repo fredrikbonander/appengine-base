@@ -21,3 +21,4 @@ appengine-tests:
 
 setup:
 	pip install -r requirements.txt
+	npm install app/ui/
