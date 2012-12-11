@@ -15,4 +15,4 @@
 
 
 
-## Inspired by (and stolen from) https://github.com/swallentin/front-end-assets-pipeline  ##
+-- Inspired by (and stolen from) https://github.com/swallentin/front-end-assets-pipeline  --
