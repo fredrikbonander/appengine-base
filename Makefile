@@ -18,3 +18,6 @@ serve:
 appengine-tests:
 	rm /usr/local/bin/dev_appserver.pyc
 	nosetests -v --gae-application=$(APP) --with-gae test/appengine/
+
+setup:
+	pip install -r requirements.txt
