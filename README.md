@@ -12,3 +12,7 @@
 
 - pip
 - appengine SDK (https://developers.google.com/appengine/downloads)
+
+
+
+## Inspired by (and stolen from) https://github.com/swallentin/front-end-assets-pipeline  ##
